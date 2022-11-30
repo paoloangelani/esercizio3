@@ -1,7 +1,25 @@
-body {
-    align-items: center;
-}
-
 div {
     background-color: bisque;
+    padding: 5px;
+    border: 0ch;
+}
+
+a {
+    color: green;
+}
+
+.feat {
+    color: rgb(198, 101, 9);
+}
+
+.description {
+    color: grey;
+}
+
+.l1 {
+    color: orange;
+}
+
+.l2 {
+    color: green;
 }
