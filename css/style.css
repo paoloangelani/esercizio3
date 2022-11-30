@@ -19,6 +19,10 @@ footer {
     margin-right: 30%;
 }
 
+article {
+    margin-left: 35%;
+}
+
 div {
     background-color: bisque;
     padding: 5px;
